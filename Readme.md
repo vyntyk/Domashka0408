@@ -31,5 +31,6 @@ a = -9 b = -3 -> max = -3
 8 -> 2, 4, 6, 8
 */
 
+
 ![Снимок экрана (85)](https://user-images.githubusercontent.com/56500587/182960160-ee900f1d-47e9-4d99-a547-87316d67e34f.png)
 
