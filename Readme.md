@@ -4,3 +4,4 @@ a = 2 b = 10 -> max = 10
 a = -9 b = -3 -> max = -3
 
 
+![Снимок экрана (82)](https://user-images.githubusercontent.com/56500587/182959364-c61a0973-9640-470d-b132-3c05b6ec7603.png)
